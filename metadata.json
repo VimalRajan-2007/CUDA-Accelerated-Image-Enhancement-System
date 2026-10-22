@@ -1,0 +1,6 @@
+{
+  "name": "CUDA Image Lab",
+  "description": "CUDA-Accelerated Image Enhancement System and Performance Analysis Dashboard for B.Tech AI & Data Science",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

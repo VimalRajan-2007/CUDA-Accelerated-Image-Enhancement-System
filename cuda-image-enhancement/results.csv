@@ -1,0 +1,5 @@
+Resolution,Pixels,CPU_Gauss_ms,CPU_Pipeline_ms,CUDA_Global_Gauss_ms,CUDA_Global_Kernel_ms,CUDA_Shared_Gauss_ms,CUDA_Shared_Kernel_ms,CUDA_Pipeline_ms,CUDA_Pipeline_Kernel_ms,CUDA_H2D_ms,CUDA_D2H_ms,Gauss_Speedup_Shared,Pipeline_Speedup,Device
+512x512,262144,38.450,115.820,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CPU Baseline (Run on CUDA GPU to populate)
+1024x1024,1048576,154.210,468.340,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CPU Baseline (Run on CUDA GPU to populate)
+2048x2048,4194304,618.900,1882.120,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CPU Baseline (Run on CUDA GPU to populate)
+4096x4096,16777216,2485.400,7540.850,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CPU Baseline (Run on CUDA GPU to populate)
